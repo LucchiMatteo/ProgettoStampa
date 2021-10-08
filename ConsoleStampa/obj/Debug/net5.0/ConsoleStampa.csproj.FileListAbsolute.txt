@@ -1,0 +1,16 @@
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.exe
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.deps.json
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.runtimeconfig.json
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.runtimeconfig.dev.json
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.dll
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ref\ConsoleStampa.dll
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.pdb
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.csproj.AssemblyReference.cache
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.AssemblyInfoInputs.cache
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.AssemblyInfo.cs
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.csproj.CoreCompileInputs.cache
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.dll
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ref\ConsoleStampa.dll
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.pdb
+C:\Users\prof.lucchi\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.genruntimeconfig.cache
